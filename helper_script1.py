@@ -1,2 +1,2 @@
-def cus_print(val):
-    return print(val)
+def add(val1,val2):
+    return val1*val2

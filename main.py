@@ -1,4 +1,4 @@
-from helper_script1 import cus_print
+from helper_script1 import add
 
 
-cus_print("hello world")
+print(add(5,7))
